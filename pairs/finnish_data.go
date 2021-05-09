@@ -9,9 +9,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/nordicsense/lstproxy/lib/ts"
+	"github.com/nordicsense/lstproxy/pairs/ts"
 
-	io2 "github.com/nordicsense/lstproxy/lib/io"
+	io2 "github.com/nordicsense/lstproxy/pairs/io"
 )
 
 const dateTimeLayout = "2006-01-02 15:04"

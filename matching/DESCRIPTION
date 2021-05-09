@@ -1,0 +1,8 @@
+Package: matching
+Title: Matching LST~T data in European North
+Version: 0.0.1
+Encoding: UTF-8
+Author: es377, osklyar
+Depends: R (>= 3.2), ggplot2, gridExtra
+Imports: utils
+License: Apache-2.0

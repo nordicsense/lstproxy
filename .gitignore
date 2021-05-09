@@ -6,4 +6,4 @@ go.sum
 # accidently build binaries
 finmeteo/finmeteo
 hdf2tiff/hdf2tiff
-matching/matching
+pairs/pairs

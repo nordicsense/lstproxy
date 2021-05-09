@@ -5,8 +5,8 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/nordicsense/lstproxy/lib/progress"
-	"github.com/nordicsense/lstproxy/lib/ts"
+	"github.com/nordicsense/lstproxy/pairs/progress"
+	"github.com/nordicsense/lstproxy/pairs/ts"
 	"github.com/nordicsense/modis/dataset"
 
 	modists "github.com/nordicsense/modis/ts"

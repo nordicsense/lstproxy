@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/nordicsense/lstproxy/lib/ts"
+	"github.com/nordicsense/lstproxy/pairs/ts"
 )
 
 var tt = ts.Timeseries{

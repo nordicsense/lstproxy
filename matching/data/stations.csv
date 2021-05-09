@@ -1,0 +1,209 @@
+id,name,lat,lon,elevation,inception,zone,zoneid,location,locationid
+100683,Porvoo Kilpilahti harbour,60.3,25.55,2,2014,NA,NA,NA,NA
+100907,Jomala Mariehamn airport,60.13,19.9,2,1950,NA,NA,NA,NA
+100908,Parainen Utö,59.78,21.37,6,1881,NA,NA,NA,NA
+100909,Lemland Nyhamn,59.96,19.95,9,1958,NA,NA,NA,NA
+100917,Jomala Jomalaby,60.18,19.99,11,1971,NA,NA,NA,NA
+100919,Hammarland Märket,60.3,19.13,3,1977,NA,NA,NA,NA
+100921,Kökar Bogskär,59.5,20.35,4,1982,NA,NA,NA,NA
+100924,Parainen Fagerholm,60.11,21.7,3,1989,NA,NA,NA,NA
+100928,Kumlinge parish,60.26,20.75,23,2000,Boreal,6,coastal on island,3
+100932,Hanko Russarö,59.77,22.95,6,1881,NA,NA,NA,NA
+100934,Kaarina Yltöinen,60.39,22.55,6,1927,Boreal,6,coastal on land,2
+100945,Kemiönsaari Vänö,59.87,22.19,10,1990,NA,NA,NA,NA
+100946,Hanko Tulliniemi,59.81,22.91,10,1990,NA,NA,NA,NA
+100947,Turku Rajakari,60.38,22.1,3,1991,NA,NA,NA,NA
+100949,Turku Artukainen,60.45,22.18,8,2003,Boreal,6,coastal on land,2
+100951,Kemiönsaari Kemiö,60.17,22.76,12,2009,Boreal,6,in,1
+100953,Hanko Tvärminne,59.84,23.25,3,1962,NA,NA,NA,NA
+100955,Salo Kärkkä,60.37,23.11,2,1936,Boreal,6,coastal on land,2
+100965,Raasepori Jussarö,59.82,23.57,17,1990,NA,NA,NA,NA
+100967,Salo Kiikala airfield,60.46,23.65,117,2002,Boreal,6,in,1
+100968,Vantaa Helsinki-Vantaa airport,60.33,24.96,51,1952,Boreal,6,in,1
+100969,Inkoo Bågaskär,59.93,24.01,13,1954,NA,NA,NA,NA
+100971,Helsinki Kaisaniemi,60.18,24.94,3,1844,Boreal,6,town,4
+100974,Lohja Porla,60.24,24.05,36,1949,Boreal,6,town,4
+100976,Vihti Maasoja,60.42,24.4,39,1938,Boreal,6,in,1
+100996,Helsinki Harmaja,60.11,24.98,6,1989,NA,NA,NA,NA
+100997,Kirkkonummi Mäkiluoto,59.92,24.35,2,1989,NA,NA,NA,NA
+101003,Helsinki lighthouse,59.95,24.93,0,2003,NA,NA,NA,NA
+101004,Helsinki Kumpula,60.2,24.96,24,2005,Boreal,6,town,4
+101009,Helsinki Malmi airfield,60.25,25.05,15,1937,Boreal,6,in,1
+101022,Porvoo Kalbådagrund,59.99,25.6,0,1977,NA,NA,NA,NA
+101023,Porvoo Emäsalo,60.2,25.63,19,1974,NA,NA,NA,NA
+101028,Porvoo Harabacka,60.39,25.61,22,2006,Boreal,6,in,1
+101029,Sipoo Eestiluoto,60.12,25.22,13,2008,NA,NA,NA,NA
+101030,Kotka Rankki,60.38,26.96,11,1933,NA,NA,NA,NA
+101039,Loviisa Orrengrund,60.27,26.45,1,1974,NA,NA,NA,NA
+101042,Kotka Haapasaari,60.29,27.18,4,1986,NA,NA,NA,NA
+101044,Pori airport,61.46,21.81,11,1945,Boreal,6,town,4
+101059,Kustavi Isokari,60.72,21.03,5,1974,NA,NA,NA,NA
+101061,Rauma Kylmäpihlaja,61.14,21.3,4,1990,NA,NA,NA,NA
+101064,Pori railway station,61.48,21.78,9,2008,Boreal,6,town,4
+101065,Turku airport,60.52,22.28,45,1955,Boreal,6,in,1
+101103,Kokemäki Tulkkila,61.25,22.35,38,2010,Boreal,6,in,1
+101104,Jokioinen Ilmala,60.81,23.5,104,1957,Boreal,6,in,1
+101118,Pirkkala Tampere-Pirkkala airport,61.42,23.62,112,1979,Boreal,6,in,1
+101124,Tampere Härmälä,61.47,23.75,85,1997,Boreal,6,town,4
+101128,Somero Salkola,60.65,23.81,142,2010,Boreal,6,in,1
+101130,Hyvinkää Hyvinkäänkylä,60.6,24.8,86,1930,Boreal,6,in,1
+101149,Nurmijärvi Röykkä,60.51,24.65,110,1952,Boreal,6,in,1
+101150,Hämeenlinna Katinen,61,24.49,87,2001,Boreal,6,town,4
+101151,Hattula Lepaa,61.11,24.32,87,2006,Boreal,6,in,1
+101154,Hämeenlinna Lammi Pappila,61.05,25.04,125,1963,Boreal,6,in,1
+101185,Asikkala Pulkkilanharju,61.27,25.52,79,1991,Boreal,6,in,1
+101191,Kouvola Utti airport,60.9,26.95,102,1944,Boreal,6,in,1
+101194,Kouvola Anjala,60.7,26.81,31,1941,Boreal,6,in,1
+101196,Heinola Asemantaus,61.2,26.05,93,1908,Boreal,6,in,1
+101219,Kouvola Utti Lentoportintie,60.89,26.93,99,2008,Boreal,6,in,1
+101231,Virolahti Koivuniemi,60.53,27.67,5,1976,Boreal,6,coastal in land,2
+101237,Lappeenranta airport,61.04,28.13,104,1950,Boreal,6,town,4
+101246,Lappeenranta Konnunsuo,61.04,28.56,46,1991,Boreal,6,in,1
+101247,Lappeenranta Lepola,61.06,28.21,103,1995,Boreal,6,town,4
+101252,Lappeenranta Hiekkapakka,61.2,28.47,77,2009,Boreal,6,in,1
+101254,Parikkala Koitsanlahti,61.44,29.46,74,1991,Boreal,6,in,1
+101256,Kaskinen Sälgrund,62.33,21.19,5,1876,NA,NA,NA,NA
+101267,Pori Tahkoluoto harbour,61.63,21.38,3,1996,NA,NA,NA,NA
+101268,Kristiinankaupunki lighthouse,62.2,21.17,0,1997,NA,NA,NA,NA
+101272,Karvia Alkkia,62.18,22.8,162,1966,Boreal,6,in,1
+101289,Kauhajoki Kuja-Kokko,62.41,22.18,93,1986,Boreal,6,town,4
+101291,Kankaanpää Niinisalo airfield,61.84,22.46,123,1998,Boreal,6,in,1
+101310,Virrat Äijänneva,62.33,23.54,138,1986,Boreal,6,in,1
+101311,Tampere Siilinkari,61.52,23.75,96,1989,Boreal,6,in,1
+101315,Jämsä Halli airport,61.86,24.8,144,1964,Boreal,6,in,1
+101317,Juupajoki Hyytiälä,61.85,24.29,154,1956,Boreal,6,in,1
+101338,Jämsä Halli Lentoasemantie,61.86,24.81,144,2008,Boreal,6,in,1
+101339,Jyväskylä airport,62.4,25.67,139,1945,Boreal,6,in,1
+101362,Luhanka Judinsalo,61.7,25.51,80,1990,Boreal,6,in,1
+101367,Joutsa Savenaho,61.88,26.09,145,1946,Boreal,6,in,1
+101398,Mikkeli airport,61.69,27.2,99,1951,Boreal,6,town,4
+101418,Juva Partala,61.89,27.89,110,1992,Boreal,6,in,1
+101421,Varkaus Kosulanniemi,62.32,27.91,83,2007,Boreal,6,in,1
+101430,Savonlinna airport,61.95,28.93,92,1974,Boreal,6,in,1
+101436,Rantasalmi Rukkasluoto,62.06,28.57,79,1997,Boreal,6,in,1
+101441,Savonlinna Punkaharju Laukansaari,61.8,29.32,79,1904,Boreal,6,in,1
+101459,Tohmajärvi Kemie,62.24,30.35,91,1925,Boreal,6,in,1
+101462,Vaasa airport,63.06,21.75,4,1946,NA,NA,NA,NA
+101464,Mustasaari Valassaaret,63.44,21.07,4,1895,NA,NA,NA,NA
+101479,Korsnäs Bredskäret,62.93,21.19,1,1991,NA,NA,NA,NA
+101481,Maalahti Strömmingsbådan,62.98,20.74,2,1997,NA,NA,NA,NA
+101485,Vaasa Klemettilä,63.1,21.64,7,2010,NA,NA,NA,NA
+101486,Seinäjoki Pelmaa,62.94,22.49,26,1927,Boreal,6,in,1
+101503,Kauhava airfield,63.12,23.04,42,1931,Boreal,6,in,1
+101520,Ähtäri Inha,62.55,24.14,161,1912,Boreal,6,in,1
+101528,Halsua Purola,63.45,24.44,153,1958,Boreal,6,in,1
+101533,Alajärvi Möksy,63.09,24.26,171,1957,Boreal,6,in,1
+101536,Multia Karhila,62.51,24.81,227,2008,Boreal,6,in,1
+101537,Viitasaari Haapaniemi,63.08,25.86,130,1969,Boreal,6,in,1
+101555,Vesanto parish,62.92,26.42,121,1908,Boreal,6,in,1
+101570,Siilinjärvi Kuopio airport,63,27.81,94,1945,Boreal,6,in,1
+101572,Kuopio Maaninka,63.14,27.31,91,1930,Boreal,6,in,1
+101580,Kuopio Ritoniemi,62.8,27.9,86,1980,Boreal,6,in,1
+101586,Kuopio Savilahti,62.89,27.63,87,2005,Boreal,6,town,4
+101603,Rautavaara Ylä-Luosta,63.38,28.66,166,1976,Boreal,6,in,1
+101608,Liperi Joensuu airport,62.66,29.64,112,1955,Boreal,6,in,1
+101609,Juuka Niemelä,63.23,29.23,115,1914,Boreal,6,in,1
+101628,Liperi Tuiskavanluoto,62.55,29.67,78,1997,Boreal,6,in,1
+101632,Joensuu Linnunlahti,62.6,29.72,81,2008,Boreal,6,town,4
+101636,Lieksa Lampela,63.32,30.05,98,1946,Boreal,6,town,4
+101649,Ilomantsi Pötsönvaara,63.14,31.04,233,1997,Boreal,6,in,1
+101651,Ilomantsi Mekrijärvi,62.77,30.98,155,1999,Boreal,6,in,1
+101660,Pietarsaari Kallan,63.75,22.52,2,1995,NA,NA,NA,NA
+101661,Kokkola Tankar,63.95,22.85,5,1996,NA,NA,NA,NA
+101662,Kruunupyy Kokkola-Pietarsaari airport,63.73,23.14,25,1960,Boreal,6,in,1
+101673,Kalajoki Ulkokalla,64.33,23.45,3,1977,NA,NA,NA,NA
+101675,Kokkola Santahaka,63.84,23.1,5,2007,Boreal,6,town,4
+101689,Toholampi Laitala,63.82,24.16,84,1988,Boreal,6,in,1
+101690,Ylivieska airfield,64.05,24.72,76,2000,Boreal,6,in,1
+101695,Haapavesi Mustikkamäki,64.14,25.42,112,1951,Boreal,6,in,1
+101705,Pyhäjärvi Ojakylä,63.74,25.71,152,1990,Boreal,6,in,1
+101725,Kajaani airport,64.28,27.67,132,1956,Boreal,6,in,1
+101726,Vieremä Kaarakkala,63.84,27.22,206,1937,Boreal,6,in,1
+101743,Nurmes Valtimo,63.67,28.83,114,1969,Boreal,6,in,1
+101756,Sotkamo Kuolaniemi,64.11,28.34,161,1989,Boreal,6,in,1
+101773,Kuhmo Kalliojoki,64.3,30.17,196,1997,Boreal,6,in,1
+101775,Raahe Nahkiainen,64.61,23.9,0,1997,NA,NA,NA,NA
+101776,Hailuoto Keskikylä,65.02,24.73,6,1950,Boreal,6,coastal on island,3
+101783,Kemi I lighthouse,65.39,24.1,0,1978,NA,NA,NA,NA
+101784,Hailuoto Marjaniemi,65.04,24.56,7,1881,Boreal,6,coastal on island,3
+101785,Raahe Lapaluoto harbour,64.67,24.41,2,1990,NA,NA,NA,NA
+101786,Oulu airport,64.94,25.34,13,1953,Boreal,6,in,1
+101787,Siikajoki Ruukki,64.68,25.09,48,1904,Boreal,6,in,1
+101794,Oulu Vihreäsaari harbour,65.01,25.39,3,1996,NA,NA,NA,NA
+101799,Oulu Oulunsalo Pellonpää,64.94,25.37,11,2007,Boreal,6,in,1
+101800,Vaala Pelso,64.5,26.42,113,1943,Boreal,6,in,1
+101805,Pudasjärvi airfield,65.4,26.96,120,1999,Boreal,6,in,1
+101826,Suomussalmi Pesiö,64.93,28.75,222,1981,Boreal,6,in,1
+101831,Puolanka Paljakka,64.66,28.06,341,2009,Boreal,6,in,1
+101840,Kemi Kemi-Tornio airport,65.79,24.58,11,1945,Boreal,6,coastal on land,2
+101846,Kemi Ajos,65.67,24.52,2,1973,NA,NA,NA,NA
+101851,Tornio Torppi,65.85,24.17,8,2008,NA,NA,NA,NA
+101873,Ranua airfield,65.98,26.37,161,2008,Boreal,6,in,1
+101885,Taivalkoski parish,65.57,28.22,197,2002,Boreal,6,in,1
+101886,Kuusamo airport,65.99,29.23,265,1909,Boreal,6,town,4
+101887,Kuusamo Kiutaköngäs,66.37,29.31,164,1966,Boreal,6,in,1
+101897,Kuusamo Rukatunturi,66.17,29.15,500,1990,Boreal,6,in,1
+101899,Kuusamo Juuma,66.32,29.4,298,1989,Boreal,6,in,1
+101908,Ylitornio Meltosjärvi,66.53,24.65,93,1937,NA,NA,NA,NA
+101914,Pello parish,66.77,23.96,85,1970,NA,NA,NA,NA
+101920,Rovaniemi airport,66.56,25.84,189,1951,Boreal,6,in,1
+101928,Rovaniemi railway station,66.5,25.71,85,1997,Boreal,6,town,4
+101932,Sodankylä Tähtelä,67.37,26.63,179,1891,Boreal,6,in,1
+101933,Rovaniemi Apukka,66.58,26.01,106,1939,Boreal,6,in,1
+101950,Kemijärvi airfield,66.72,27.16,208,2006,Boreal,6,in,1
+101952,Savukoski parish,67.29,28.18,180,1963,Boreal,6,in,1
+101958,Pelkosenniemi Pyhätunturi,67.02,27.22,491,1995,Boreal,6,in,1
+101959,Salla parish,66.82,28.69,218,1999,Boreal,6,in,1
+101966,Salla Naruska,67.16,29.18,213,1999,Boreal,6,in,1
+101976,Enontekiö airport,68.36,23.43,308,1999,NA,NA,NA,NA
+101982,Muonio Laukukero,68.06,24.03,760,1996,NA,NA,NA,NA
+101983,Muonio Sammaltunturi,67.97,24.12,555,1991,NA,NA,NA,NA
+101985,Kittilä Matorova,68,24.24,340,1995,NA,NA,NA,NA
+101986,Kittilä airport,67.69,24.86,195,1999,NA,NA,NA,NA
+101987,Kittilä Kenttärova,67.99,24.24,347,2002,NA,NA,NA,NA
+101990,Kittilä parish,67.65,24.9,181,2009,NA,NA,NA,NA
+101994,Kittilä Pokka,68.17,25.78,276,1971,NA,NA,NA,NA
+102000,Sodankylä Lokka,67.82,27.75,240,1958,Boreal,6,in,1
+102001,Sodankylä Vuotso,68.08,27.19,247,1958,Boreal,6,in,1
+102005,Inari Saariselkä tourist centre,68.42,27.41,302,1976,Boreal,6,in,1
+102006,Inari Saariselkä Kaunispää,68.43,27.44,437,1995,Boreal,6,in,1
+102009,Inari Raja-Jooseppi,68.48,28.3,253,1992,Boreal,6,in,1
+102012,Salla Värriötunturi,67.75,29.61,360,1971,Boreal,6,in,1
+102016,Enontekiö Kilpisjärvi,69.05,20.79,480,1978,NA,NA,NA,NA
+102017,Enontekiö Kilpisjärvi Saana,69.04,20.85,1002,1991,NA,NA,NA,NA
+102019,Enontekiö Näkkälä,68.6,23.58,374,1960,NA,NA,NA,NA
+102026,Inari Angeli Lintupuoliselkä,68.9,25.74,285,2008,NA,NA,NA,NA
+102033,Inari Ivalo airport,68.61,27.42,140,1957,Boreal,6,in,1
+102035,Utsjoki Kevo,69.76,27.01,107,1962,NA,NA,NA,NA
+102036,Utsjoki Nuorgam,70.08,27.9,22,1929,NA,NA,NA,NA
+102042,Inari Väylä,69.07,27.49,123,1990,NA,NA,NA,NA
+102047,Inari Kaamanen,69.14,27.27,156,2008,NA,NA,NA,NA
+102052,Inari Nellim,68.85,28.3,121,1990,Boreal,6,in,1
+102055,Inari Kirakkajärvi,69.58,28.89,106,2009,Alpine,1,in,1
+103786,Järvenpää Sorto,60.48,25.08,51,2018,NA,NA,NA,NA
+103794,Mäntsälä Hirvihaara,60.63,25.19,83,2015,Boreal,6,in,1
+103943,Helsinki Vuosaari Käärmeniementie,60.22,25.17,9,2016,NA,NA,NA,NA
+104796,Lahti Sopenkorpi,60.97,25.62,NA,2016,Boreal,6,town,4
+105392,Sipoo Itätoukki,60.1,25.19,5,2017,NA,NA,NA,NA
+105427,Rauma Pyynpää,61.14,21.52,15,2018,Boreal,6,town,4
+106435,Muonio parish,67.96,23.68,236,2013,NA,NA,NA,NA
+107029,Pyhtää airfield,60.49,26.59,21,2019,Boreal,6,in,1
+107081,Kuusamo Välikangas,66,29.22,266,2019,NA,NA,NA,NA
+107113,Sotkamo Tuhkakylä,64,28.06,212,2019,NA,NA,NA,NA
+107201,Tervola Loue,66.15,24.99,38,2020,NA,NA,NA,NA
+126736,Kajaani Petäisenniska,64.22,27.75,160,2010,Boreal,6,town,4
+126737,Utsjoki Kevo Kevojärvi,69.76,27.01,76,2010,NA,NA,NA,NA
+129963,Inari Seitalaassa,69.05,27.76,120,2011,NA,NA,NA,NA
+137188,Ilmajoki Seinäjoki airport,62.69,22.84,86,2012,NA,NA,NA,NA
+137190,Rovaniemi airport AWOS,66.57,25.85,187,1999,NA,NA,NA,NA
+137208,Jyväskylä airport AWOS,62.39,25.69,124,1999,Boreal,6,in,1
+150168,Puumala parish,61.52,28.18,98,2012,Boreal,6,in,1
+151028,Helsinki Vuosaari harbour,60.21,25.2,2,2012,NA,NA,NA,NA
+151029,Mariehamn West Harbour,60.09,19.93,2,2012,NA,NA,NA,NA
+151048,Lumparland Långnäs harbour,60.12,20.3,10,2012,NA,NA,NA,NA
+151049,Tampere Tampella,61.5,23.76,91,2012,Boreal,6,town,4
+778135,Kittilä Lompolonvuoma,68,24.21,270,2013,NA,NA,NA,NA
+806428,Kuusamo Ruka Talvijärvi,66.17,29.14,306,2013,Boreal,6,in,1
+852678,Espoo Nuuksio,60.29,24.57,NA,2014,Boreal,6,in,1
+855522,Mikkeli airport AWOS,61.69,27.21,101,1959,NA,NA,NA,NA
+874863,Espoo Tapiola,60.18,24.79,NA,2013,Boreal,6,town,4

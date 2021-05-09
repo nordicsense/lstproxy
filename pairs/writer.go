@@ -7,7 +7,7 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/nordicsense/lstproxy/lib/ts"
+	"github.com/nordicsense/lstproxy/pairs/ts"
 )
 
 type cmttWriter struct {

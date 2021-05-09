@@ -7,8 +7,8 @@ import (
 
 	"github.com/nordicsense/modis"
 
-	"github.com/nordicsense/lstproxy/lib/fail"
-	"github.com/nordicsense/lstproxy/lib/ts"
+	"github.com/nordicsense/lstproxy/pairs/fail"
+	"github.com/nordicsense/lstproxy/pairs/ts"
 
 	modists "github.com/nordicsense/modis/ts"
 )
