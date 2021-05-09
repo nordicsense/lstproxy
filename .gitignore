@@ -1,0 +1,9 @@
+go.sum
+.idea/
+*.iml
+.DS_Store
+
+# accidently build binaries
+finmeteo/finmeteo
+hdf2tiff/hdf2tiff
+matching/matching
