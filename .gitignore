@@ -1,7 +1,7 @@
-go.sum
 .idea/
 *.iml
 .DS_Store
+
 
 # accidently build binaries
 finmeteo/finmeteo
